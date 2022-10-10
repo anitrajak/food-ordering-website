@@ -1,0 +1,19 @@
+#navigation{
+    flex-direction: column;
+    height: 100px;
+
+}
+#services{
+    flex-direction: column;
+}
+#client{
+    overflow: hidden;
+}
+#home{
+    flex-direction: column;
+    height: 370px;
+}
+#home::before{
+    flex-direction: column;
+    height: 400px;
+}
